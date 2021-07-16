@@ -23,7 +23,3 @@ git clone https://github.com/henriqueluhm/letmeask.git
 yarn install 
 yarn start 
 ```
-
-## Author
-  Henrique Luhm
-  LinkedIn: https://www.linkedin.com/in/henrique-luhm-a319a71b0/
