@@ -1,5 +1,5 @@
 # letmeask
-A q&a website created together with rocketseat in a bootcamp within a week. It has integration with the Realtime DataBase from Firebase, where it was also made the deploy and hosting.
+A Q&A website created together with rocketseat in a bootcamp within a week. It has integration with the Realtime DataBase from Firebase, where it was also made the deploy and hosting.
 <br/>
 ## Link:
 https://letmeask-464b1.web.app
